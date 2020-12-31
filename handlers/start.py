@@ -3,7 +3,7 @@ from pyrogram.handlers import MessageHandler
 
 
 async def start(client, message):
-    await message.reply_text("Hi, send me a YouTube link to play it.")
+    await message.reply_text("Hi, send me a YouTube link to play it.BOT BY @VKPROJECTS")
 
 __handlers__ = [
     [
